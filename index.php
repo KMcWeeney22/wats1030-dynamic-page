@@ -33,7 +33,7 @@
         <![endif]-->
 
     <div class="container">
-      <h1><?php echo $PAGE_TITLE; ?></h1>
+      <h1 id="page-title"><?php echo $PAGE_TITLE; ?></h1>
       <!-- Example row of columns -->
       <ul class="photo-gallery">
         <?php
